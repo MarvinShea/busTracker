@@ -5,4 +5,4 @@ To run a copy of this project all you need to do is add you own access token on 
 Access token can be obtained for free by creating an account at mapbox.com.
 ### Future Improvements
 My improvements for the future is to add an estimated time of arrival based on distance and speed.
-<img src="map.png" width= 50px>
+<img src="map.png" width= 200px>
